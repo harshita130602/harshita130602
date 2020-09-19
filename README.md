@@ -10,7 +10,7 @@ I am **Harshita Upadhyay**, I'm an undergraduate student at International Instit
 *  **Fun fact:** It’s said that 1 year equals 7 dog years. Computers age at about the same rate. A 10 year old computer functions about as well as a 70 year old human. If this is true, no wonder those ancient computers are called “dinosaurs”.
 
 ![Harshita's github stats](https://github-readme-stats.vercel.app/api?username=harshita130602&count_private=true&show_icons=true&theme=merko)
-
+![](https://komarev.com/ghpvc/?username=harshita130602)
 
 ### FIND ME AROUND THE WEB
 * [Instagram](https://www.instagram.com/harshita_upadhyay_/) :round_pushpin:
