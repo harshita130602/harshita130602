@@ -1,6 +1,6 @@
 # HELLO WORLD! :) ![](https://komarev.com/ghpvc/?username=harshita130602)
 
-I am **Harshita Upadhyay**, I'm an undergraduate student at International Institute of Information Technology, Hyderabad. I am a big tech-enthusiast. I love working on projects which tackle real world problems. I like everything from Machine learning to system programming. I am a dance fan too. Some technologies I enjoy working with include Python, HTML, Javascript and C++.
+I am **Harshita Upadhyay**, I'm an undergraduate student at International Institute of Information Technology, Hyderabad. I am a big tech-enthusiast. I love working on projects which tackle real world problems. I like everything from Machine learning to system programming. Some technologies I enjoy working with include Python, HTML, CSS, Javascript and C++.
 
 * **I’m currently working on:** An Instagram Bot using python, A complete functional shell in C and make this readme look better.
 *  **I’m currently learning:** Data Structures and algorithms fundamentals to improve competitive programming skills.
