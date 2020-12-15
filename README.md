@@ -2,7 +2,7 @@
 
 I am **Harshita Upadhyay**, I'm an undergraduate student at International Institute of Information Technology, Hyderabad. I am a big tech-enthusiast. I love working on projects which tackle real world problems. I like everything from Machine learning to system programming. Some technologies I enjoy working with include Python, HTML, CSS, Javascript and C++.
 
-* **I’m currently working on:** An Instagram Bot using python and a COVID Tracker app in ReactJS.
+* **I’m currently working on:** An Instagram Bot using python.
 *  **I’m currently learning:** Data Structures and algorithms fundamentals to improve competitive programming skills.
 *  **Ask me about:** Please don't ask me anything. I am already fed up of my college asking me random questions in assignments.
 *  **How to reach me:** Drop a mail at harshita.upadhyay@students.iiit.ac.in
